@@ -28,6 +28,8 @@ class ViewController: UIViewController {
         timer.fire()
     }
     
+    //変更
+    
     @objc func time(){
         
         let date: Date = Date()
