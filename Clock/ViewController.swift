@@ -3,7 +3,7 @@
 //  Clock
 //
 //  Created by Life is Tech! on 2014/12/31.
-//  Copyright (c) 2014年 Life is Tech!. All rights reserved.
+//  Copyright (c) 2014年 Life is Tech!. All rights reserved.tt
 //
 
 import UIKit
